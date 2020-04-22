@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "446709078700",
+    "firebase_url": "https://flutter-firebase-auth-8134a.firebaseio.com",
+    "project_id": "flutter-firebase-auth-8134a",
+    "storage_bucket": "flutter-firebase-auth-8134a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446709078700:android:521b924b3706987a1edd09",
+        "android_client_info": {
+          "package_name": "com.example.gamuda_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446709078700-a42ctja30ts8ss4poeufk87ffodddm85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB9BvMo0zfP4pW74DXKKnDKZ-XoqAbaN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446709078700-a42ctja30ts8ss4poeufk87ffodddm85.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
